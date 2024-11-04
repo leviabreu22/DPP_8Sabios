@@ -1,0 +1,1 @@
+nome = "3_sabio"

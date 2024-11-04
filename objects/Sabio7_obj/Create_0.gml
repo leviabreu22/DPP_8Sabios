@@ -1,0 +1,1 @@
+nome = "7_sabio"
